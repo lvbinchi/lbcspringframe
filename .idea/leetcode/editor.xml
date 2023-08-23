@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[1186]删除一次得到子数组最大和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/doc/content/[1186]删除一次得到子数组最大和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1186" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[1186]删除一次得到子数组最大和.java" />
+              <option name="titleSlug" value="maximum-subarray-sum-with-one-deletion" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[1401]圆和矩形是否有重叠.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/doc/content/[1401]圆和矩形是否有重叠.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1401" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[1401]圆和矩形是否有重叠.java" />
+              <option name="titleSlug" value="circle-and-rectangle-overlapping" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[1]两数之和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/doc/content/[1]两数之和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[1]两数之和.java" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[200]岛屿数量.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/doc/content/[200]岛屿数量.md" />
+              <option name="frontendQuestionId" value="leetcode.cn200" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[200]岛屿数量.java" />
+              <option name="titleSlug" value="number-of-islands" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[2050]并行课程 III.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/doc/content/[2050]并行课程 III.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2050" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[2050]并行课程 III.java" />
+              <option name="titleSlug" value="parallel-courses-iii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[215]数组中的第K个最大元素.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/doc/content/[215]数组中的第K个最大元素.md" />
+              <option name="frontendQuestionId" value="leetcode.cn215" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[215]数组中的第K个最大元素.java" />
+              <option name="titleSlug" value="kth-largest-element-in-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[2178]拆分成最多数目的正偶数之和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/doc/content/[2178]拆分成最多数目的正偶数之和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2178" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[2178]拆分成最多数目的正偶数之和.java" />
+              <option name="titleSlug" value="maximum-split-of-positive-even-integers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[2485]找出中枢整数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/doc/content/[2485]找出中枢整数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2485" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[2485]找出中枢整数.java" />
+              <option name="titleSlug" value="find-the-pivot-integer" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[2681]英雄的力量.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/doc/content/[2681]英雄的力量.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2681" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[2681]英雄的力量.java" />
+              <option name="titleSlug" value="power-of-heroes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[440]字典序的第K小数字.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/doc/content/[440]字典序的第K小数字.md" />
+              <option name="frontendQuestionId" value="leetcode.cn440" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[440]字典序的第K小数字.java" />
+              <option name="titleSlug" value="k-th-smallest-in-lexicographical-order" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[44]通配符匹配.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/doc/content/[44]通配符匹配.md" />
+              <option name="frontendQuestionId" value="leetcode.cn44" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[44]通配符匹配.java" />
+              <option name="titleSlug" value="wildcard-matching" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[722]删除注释.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/doc/content/[722]删除注释.md" />
+              <option name="frontendQuestionId" value="leetcode.cn722" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[722]删除注释.java" />
+              <option name="titleSlug" value="remove-comments" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[822]翻转卡片游戏.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/doc/content/[822]翻转卡片游戏.md" />
+              <option name="frontendQuestionId" value="leetcode.cn822" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[822]翻转卡片游戏.java" />
+              <option name="titleSlug" value="card-flipping-game" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[980]不同路径 III.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/doc/content/[980]不同路径 III.md" />
+              <option name="frontendQuestionId" value="leetcode.cn980" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[980]不同路径 III.java" />
+              <option name="titleSlug" value="unique-paths-iii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[面试题 17.09]第 k 个数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/doc/content/[面试题 17.09]第 k 个数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 17.09" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcoderepo/leetcode/editor/cn/[面试题 17.09]第 k 个数.java" />
+              <option name="titleSlug" value="get-kth-magic-number-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
